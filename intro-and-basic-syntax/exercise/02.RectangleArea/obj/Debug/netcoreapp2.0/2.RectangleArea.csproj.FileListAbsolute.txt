@@ -1,0 +1,10 @@
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.deps.json
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.json
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.dev.json
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.dll
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.pdb
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.csproj.CoreCompileInputs.cache
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfoInputs.cache
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfo.cs
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.dll
+E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.pdb
