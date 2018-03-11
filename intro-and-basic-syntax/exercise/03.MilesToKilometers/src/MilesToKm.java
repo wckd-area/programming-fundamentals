@@ -1,3 +1,4 @@
+//CONFIRMED from aquaruiz
 import java.util.Scanner;
 
 /**
