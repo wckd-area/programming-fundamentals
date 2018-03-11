@@ -1,4 +1,6 @@
-﻿using System;
+//CONFIRMED from aquaruiz
+
+using System;
 
 namespace CharacterStats
 {
