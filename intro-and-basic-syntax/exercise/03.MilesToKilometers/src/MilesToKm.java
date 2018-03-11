@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Mira on 1/23/2018.
  */
-public class 03.MilesToKilometers {
+public class MilesToKm {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
