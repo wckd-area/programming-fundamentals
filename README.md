@@ -2,7 +2,7 @@
 Programming Fundamentals Repository
 
 # Exercises: C# Intro and Basic Syntax
-Problems for exercises and homework for the [Programming Fundamentals Extended” course @ SoftUni](https://softuni.bg/courses/programming-fundamentals)
+Problems for exercises and homework for the [Programming Fundamentals Extendedâ€ course @ SoftUni](https://softuni.bg/courses/programming-fundamentals)
 
 ## Problem 1. Debit Card Number
 Write a program, which receives **4 integers** on the console and **prints them** in **4-digit debit card format.** See the examples below for the appropriate formatting.
@@ -10,9 +10,11 @@ Write a program, which receives **4 integers** on the console and **prints them*
 |Input	| Output  |
 |--------|---------|
 |12<br>433<br>1<br>5331|0012 0433 0001 5331<br><br><br>|
+|9182<br>4221<br>12<br>3|9182 4221 0012 0003<br><br><br>|
+|812<br>321<br>123<br>22|0812 0321 0123 0022<br><br><br>|
 
 ## Problem 2. Rectangle Area
-Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2nd character after the decimal point**.
+Write a program, which calculates a **rectangleâ€™s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2nd character after the decimal point**.
 ### Examples
 |Input	| Output  |
 |--------|---------|
@@ -45,18 +47,18 @@ Write a program, which reads a food product **name**, **volume**, **energy conte
 for the **given volume** and print them
 on the console in the following format:
 
-·
-Name – as per the input
+Â·
+Name â€“ as per the input
 
-·
-Volume – **integer**,
-**suffixed** by “**ml**” (e.g. “**220ml**”)
+Â·
+Volume â€“ **integer**,
+**suffixed** by â€œ**ml**â€ (e.g. â€œ**220ml**â€)
 
-·
-Energy content – **integer**, **suffixed** by “**kcal**” (e.g. “**500kcal**”)
+Â·
+Energy content â€“ **integer**, **suffixed** by â€œ**kcal**â€ (e.g. â€œ**500kcal**â€)
 
-·
-Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”)
+Â·
+Sugar content â€“ **integer**, **suffixed** by â€œ**g**â€ (e.g. â€œ**30g**â€)
 
 #### Examples
 
