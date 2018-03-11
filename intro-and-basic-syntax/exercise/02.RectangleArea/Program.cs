@@ -7,9 +7,9 @@ namespace _2.RectangleArea
     {
         static void Main(string[] args)
         {
-            double width = double.Parse(Console.ReadLine());
+            double rectangleWidth = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
-            double result = width * height;
+            double result = rectangleWidth * height;
             Console.WriteLine($"{result:f2}");
         }
     }
