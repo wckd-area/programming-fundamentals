@@ -6,7 +6,7 @@ namespace CharacterStats
     {
         static void Main(string[] args)
         {
-            var name = Console.ReadLine();
+            var nameOfPerson = Console.ReadLine();
             var currentHealth = int.Parse(Console.ReadLine());
             var maximumHealth = int.Parse(Console.ReadLine());
             var currentEnergy = int.Parse(Console.ReadLine());
