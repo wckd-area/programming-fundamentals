@@ -1,4 +1,6 @@
-﻿using System;
+﻿//CONFIRMED from myilkova
+// after Issue#1 was resolved
+using System;
 
 namespace CharacterStats
 {
