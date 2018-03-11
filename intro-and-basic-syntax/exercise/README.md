@@ -14,5 +14,5 @@ Write a program, which **displays information** about a video game character. Yo
 |--------|---------|--|--------|---------|
 |Loogi<br>8<br>20<br>2<br>14|Name: Loogi<br>Health: \|\|\|\|\|\|\|\|\|............\|<br>Energy: \|\|\|............\|<br><br><br>|  |Toad<br>0<br>5<br>0<br>10|Name: Toad<br>Health: \|.....\|<br>Energy: \|..........\|<br><br><br>
 
-# Hints
+## Hints
 *	You can print a character **multiple** times, using **new string(character, count)**.
