@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Obache\\.nuget\\packages\\": {},
+    "C:\\Users\\Mira\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Repos\\BasicSyntaxExercises\\Debit Card Number\\Debit Card Number.csproj",
+      "projectUniqueName": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\01.DebitCardNumber\\Debit Card Number.csproj",
       "projectName": "Debit Card Number",
-      "projectPath": "D:\\Repos\\BasicSyntaxExercises\\Debit Card Number\\Debit Card Number.csproj",
-      "packagesPath": "C:\\Users\\Obache\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\BasicSyntaxExercises\\Debit Card Number\\obj\\",
+      "projectPath": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\01.DebitCardNumber\\Debit Card Number.csproj",
+      "packagesPath": "C:\\Users\\Mira\\.nuget\\packages\\",
+      "outputPath": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\01.DebitCardNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Obache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

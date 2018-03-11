@@ -9,3 +9,14 @@ D:\Repos\BasicSyntaxExercises\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Ca
 D:\Repos\BasicSyntaxExercises\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.AssemblyInfo.cs
 D:\Repos\BasicSyntaxExercises\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.dll
 D:\Repos\BasicSyntaxExercises\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.pdb
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\bin\Debug\netcoreapp2.0\Debit Card Number.deps.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\bin\Debug\netcoreapp2.0\Debit Card Number.runtimeconfig.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\bin\Debug\netcoreapp2.0\Debit Card Number.runtimeconfig.dev.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\bin\Debug\netcoreapp2.0\Debit Card Number.dll
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\bin\Debug\netcoreapp2.0\Debit Card Number.pdb
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.csprojResolveAssemblyReference.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.csproj.CoreCompileInputs.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.AssemblyInfoInputs.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.AssemblyInfo.cs
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.dll
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\01.DebitCardNumber\obj\Debug\netcoreapp2.0\Debit Card Number.pdb
