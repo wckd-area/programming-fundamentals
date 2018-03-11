@@ -664,7 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mira\\.nuget\\packages\\": {},
+    "C:\\Users\\Obache\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,18 +674,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\2.RectangleArea.csproj",
+      "projectUniqueName": "D:\\My Dogs\\Teamwork Wicked Area\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\2.RectangleArea.csproj",
       "projectName": "2.RectangleArea",
-      "projectPath": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\2.RectangleArea.csproj",
-      "packagesPath": "C:\\Users\\Mira\\.nuget\\packages\\",
-      "outputPath": "D:\\softuni\\team\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\obj\\",
+      "projectPath": "D:\\My Dogs\\Teamwork Wicked Area\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\2.RectangleArea.csproj",
+      "packagesPath": "C:\\Users\\Obache\\.nuget\\packages\\",
+      "outputPath": "D:\\My Dogs\\Teamwork Wicked Area\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\02.RectangleArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Obache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
