@@ -22,6 +22,49 @@ Write a program, which calculates a **rectangle’s area**, based on its **width
 |7<br>8|56.00<br>|
 |12.33<br>5|61.65<br>|
 
+### Problem 3. Miles to Kilometers
+Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2nd decimal place**.
+Note: **1 mile == 1.60934 kilometers**
+** **
+** **
+#### Examples
+**Input**
+**Output**
+** **
+**Input**
+**Output**
+** **
+**Input**
+**Output**
+60
+96.56
+1
+1.61
+52.1113
+83.86
+
+## Problem 4. Beverage Labels
+Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content** for the **given volume** and print them on the console in the following format:
+### Examples
+|Input	| Output  |
+|--------|---------|
+|Nuka-Cola<br>|220ml Nuka-Cola:<br>|
+|220<br>|660kcal, 154g sugars<br>|
+|300<br>||
+|70<br>||
+|Input	| Output  |
+|--------|---------|
+|Ice Cold Nuka-Cola<br>|250ml Ice Cold Nuka-Cola:<br>|
+|250<br>|875kcal, 162.5g sugars1<br>|
+|350<br>||
+|65<br>||
+|Input	| Output  |
+|--------|---------|
+|Nuka-Cola Quantum<br>|350ml Nuka-Cola Quantum:<br>|
+|350<br>|2100kcal, 490g sugars<br>|
+|600<br>||
+|140<br>||
+
 ## Problem 5.* Character Stats
 Write a program, which **displays information** about a video game character. You will receive their **name**, **current health**, **maximum health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their respective **max** values). Print them in the format as per the examples.
 ### Examples
@@ -37,84 +80,11 @@ Write a program, which **displays information** about a video game character. Yo
 ### Hints
 *	You can print a character **multiple** times, using **new string(character, count)**.
 
-### Problem 3.                 
-Miles to Kilometers
-
-Write a program, which **converts****miles** to **kilometers**. **Format** the output
-to the **2
-
-nd decimal place**.
-
-Note: **1 mile ==
-1.60934 kilometers**
-
-** **
-
-** **
-
-#### Examples
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
 
 ## Problem 4.
 Beverage Labels
 
 ###
-
 Write a program, which reads a food product **name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
 for the **given volume** and print them
 on the console in the following format:
