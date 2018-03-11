@@ -8,3 +8,14 @@ E:\software technolagies - My course\c# basics and syntax - excercices\introandb
 E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfo.cs
 E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.dll
 E:\software technolagies - My course\c# basics and syntax - excercices\introandbasicsyntax\2.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.pdb
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.deps.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.runtimeconfig.dev.json
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.dll
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\bin\Debug\netcoreapp2.0\2.RectangleArea.pdb
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.csprojResolveAssemblyReference.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.csproj.CoreCompileInputs.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfoInputs.cache
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.AssemblyInfo.cs
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.dll
+D:\softuni\team\programming-fundamentals\intro-and-basic-syntax\exercise\02.RectangleArea\obj\Debug\netcoreapp2.0\2.RectangleArea.pdb
