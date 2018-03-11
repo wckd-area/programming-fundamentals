@@ -1,5 +1,5 @@
-﻿//CONFIRMED from myilkova
-// after Issue#1 was resolved
+//CONFIRMED from aquaruiz
+
 using System;
 
 namespace CharacterStats
