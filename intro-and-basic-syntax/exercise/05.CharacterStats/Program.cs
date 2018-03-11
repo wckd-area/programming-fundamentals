@@ -16,7 +16,7 @@ namespace CharacterStats
             var health = new string('|', currentHealth) + new string('.', maximumHealth - currentHealth);
             var energy = new string('|', currentEnergy) + new string('.', maximumEnergy - currentEnergy);
 		//printing result
-            Console.WriteLine("Name: {0}", name);
+            Console.WriteLine("Name: {0}", nameOfPerson);
             Console.WriteLine("Health: |" + health + "|");
             Console.WriteLine("Energy: |" + energy + "|");
         }
